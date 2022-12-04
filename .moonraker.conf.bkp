@@ -7,7 +7,7 @@ max_upload_size = 1024
 enable_object_processing = True
 
 [data_store]
-temperature_store_size = 1200
+temperature_store_size = 600
 gcode_store_size = 1000
 
 [authorization]
